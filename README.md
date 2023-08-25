@@ -1,7 +1,7 @@
 # BDA594-cassandragayer
 Assignment 1
 
-## `#0969DA` Welcome
+   ## Welcome
 
 1. Cassandra Gayer
 2. [BDA 594 URL] (https://sdsu.instructure.com/courses/140114)
